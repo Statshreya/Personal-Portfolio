@@ -131,16 +131,12 @@ h4 {
     margin-top: 3rem;
 }
 
-.skills-left {
-    width: 50%;
-}
-
-.skills-left img {
-    width: 70%;
+.skills-left  {
+    width: 40%;
 }
 
 .skills-right {
-    width: 50%;
+    width: 40%;
 }
 
 .skillss-container {
